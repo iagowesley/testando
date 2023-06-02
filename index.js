@@ -4,3 +4,5 @@ const menuDropdown = document.querySelector('.menu-dropdown');
 menuIcon.addEventListener('click', () => {
     menuDropdown.classList.toggle('active');
 });
+
+  
